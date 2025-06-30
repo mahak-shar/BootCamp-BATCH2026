@@ -1,6 +1,6 @@
 //MOVE ALL ZEROES TO THE END IN THE ARRAY
 import java.util.*;
-public class Question7 {
+public class Ques7 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
