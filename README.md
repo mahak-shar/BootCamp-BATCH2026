@@ -18,4 +18,5 @@
   <li><strong>Ques 9 ) LEFT ROTATE THE ARRAY BY 'D' PLACES</strong></li>
   <li><strong>Ques 10 ) MERGE TWO SORTED ARRAYS</strong></li>
   <li><strong>Ques 11 ) LEADERS IN AN ARRAY (A leader in an array is defined as an element that is strictly greater than all the elements to its right)</strong></li>
+  <li><strong>Ques 12 ) REARRANGE THE NEGATIVE AND POSITIVE ITERATIVELY </strong></li>
 </ul>
