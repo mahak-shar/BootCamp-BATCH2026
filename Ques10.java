@@ -1,5 +1,5 @@
 
-// MERGING OF TWO SORTED ARRAYS
+// MERGE TWO SORTED ARRAYS
 import java.util.*;
 
 public class Ques10 {

@@ -1,4 +1,4 @@
-//Left rotate the array by 'd' places
+//LEFT ROTATE THE ARRAY BY 'D' PLACES 
 import java.util.*;
 public class Ques9 {
     public static void main(String[] args){
