@@ -7,7 +7,7 @@
 <h2>✅ LIST OF QUESTIONS :</h2>
 
 <ul>
-  <li><strong>Ques 1 ) FIND THE LARGEST AND SECOND LARGEST ELEMENT IN AN ARRAY</strong></li>
+  <li><strong>Ques 1 ) FIND THE LARGEST AND SECOND LARGEST ELEMENT IN AN ARRAY [<a href="https://www.geeksforgeeks.org/find-largest-second-largest-array/" target="_blank">LINK</a>]</strong></li>
   <li><strong>Ques 2 ) REVERSE AN ARRAY USING ITERATION</strong></li>
   <li><strong>Ques 3 ) REVERSE AN ARRAY USING RECURSION</strong></li>
   <li><strong>Ques 4 ) PRINT PYRAMID PATTERN</strong></li>
