@@ -7,9 +7,9 @@
 <h2>✅ LIST OF QUESTIONS :</h2>
 
 <ul>
-  <li><strong>Ques 1 ) FIND THE LARGEST AND SECOND LARGEST ELEMENT IN AN ARRAY [<a href="https://www.geeksforgeeks.org/problems/second-largest3735/1" target="_blank">LINK</a>]</strong></li>
-  <li><strong>Ques 2 ) REVERSE AN ARRAY USING ITERATION</strong></li>
-  <li><strong>Ques 3 ) REVERSE AN ARRAY USING RECURSION</strong></li>
+  <li><strong>Ques 1 ) FIND THE LARGEST AND SECOND LARGEST ELEMENT IN AN ARRAY. [<a href="https://www.geeksforgeeks.org/problems/second-largest3735/1" target="_blank">LINK</a>]</strong></li>
+  <li><strong>Ques 2 ) REVERSE AN ARRAY USING ITERATION. [<a href="https://www.geeksforgeeks.org/problems/reverse-an-array/1" target="_blank"> LINK </a>] </strong></li>
+  <li><strong>Ques 3 ) REVERSE AN ARRAY USING RECURSION. [<a href="https://www.geeksforgeeks.org/problems/reverse-an-array/1" target="_blank"> LINK </a>] </strong></li>
   <li><strong>Ques 4 ) PRINT PYRAMID PATTERN</strong></li>
   <li><strong>Ques 5 ) COUNT THE FREQUENCY OF EACH ELEMENT IN ARRAY</strong></li>
   <li><strong>Ques 6 ) CHECK IF ARRAY IS SORTED OR NOT</strong></li>
