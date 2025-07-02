@@ -24,5 +24,5 @@
   <li><strong>Ques 15 ) COUNT THE INVERSIONS IN AN ARRAY.[<a href="https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1" target="_blank"> LINK </a>]  </strong></li>
   <li><strong>Ques 16 ) EQUILIBRIUM INDEX IN AN ARRAY.[<a href="https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1" target="_blank"> LINK </a>]  </strong></li>
   <li><strong>Ques 17 ) ROTATE ARRAY CLOCKWISE. [<a href="https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1" target="_blank"> LINK </a>]  </strong></li>
-  <li><strong>Ques 18 ) FIND THE INTERSECTION AND UNION OF TWO ARRAY. [<a href="https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1" target="_blank"> LINK </a> <a href ="https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1" target="_blank"> LINK </a>]  </strong></li>
+  <li><strong>Ques 18 ) FIND THE INTERSECTION AND UNION OF TWO ARRAY. [<a href="https://www.geeksforgeeks.org/problems/union-of-two-arrays3538/1" target="_blank"> LINK </a>] [<a href ="https://www.geeksforgeeks.org/problems/intersection-of-two-arrays-with-duplicate-elements/1" target="_blank"> LINK </a>]  </strong></li>
 </ul>
