@@ -20,7 +20,7 @@
   <li><strong>Ques 11 ) LEADERS IN AN ARRAY. [<a href="https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1" target="_blank"> LINK </a>] </strong></li>
   <li><strong>Ques 12 ) REARRANGE THE NEGATIVE AND POSITIVE ITERATIVELY. [<a href="https://www.geeksforgeeks.org/problems/arranging-the-array1131/1" target="_blank"> LINK </a>] </strong></li>
   <li><strong>Ques 13 ) MAXIMUM SUBARRAY SUM.[<a href="https://www.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1" target="_blank"> LINK </a>]  </strong></li>
-  <li><strong>Ques 13 ) FIND SUBARRAY WITH GIVEN SUM.[<a href="https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1" target="_blank"> LINK </a>]  </strong></li>
+  <li><strong>Ques 14 ) FIND SUBARRAY WITH GIVEN SUM.[<a href="https://www.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1" target="_blank"> LINK </a>]  </strong></li>
   <li><strong>Ques 15 ) COUNT THE INVERSIONS IN AN ARRAY.[<a href="https://www.geeksforgeeks.org/problems/inversion-of-array-1587115620/1" target="_blank"> LINK </a>]  </strong></li>
   <li><strong>Ques 16 ) EQUILIBRIUM INDEX IN AN ARRAY.[<a href="https://www.geeksforgeeks.org/problems/equilibrium-point-1587115620/1" target="_blank"> LINK </a>]  </strong></li>
   <li><strong>Ques 17 ) ROTATE ARRAY CLOCKWISE. [<a href="https://www.geeksforgeeks.org/problems/rotate-array-clockwise/1" target="_blank"> LINK </a>]  </strong></li>
