@@ -15,7 +15,7 @@ public class Classtask{
         magicNumber(num);
         strongNumber(num);
 
-        if(checkPrime(num)) System.out.println("Prime");
+        if(checkPrime(num)==true) System.out.println("Prime");
         else System.out.println("Not prime");
 
         int a = sc.nextInt();
